@@ -36,7 +36,7 @@ This project analyzes supplier risk and performance data to support procurement 
 - `dashboard_overview.png` – dashboard preview image
 
 ## Dashboard Preview
-![Dashboard Preview](Dashboard Supplier Risk Analysis.png)
+![Dashboard Preview](dashboard_overview.png)
 
 ## Key Insights
 - High-risk records tend to show weaker delivery performance
